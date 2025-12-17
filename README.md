@@ -1,56 +1,34 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40&center=true&vCenter=true&width=600&height=70&duration=5000&color=00BCD4&lines=Hello,+World!+👋;+I'm+Jotapê!" />
+# Hello World! Eu sou o João Pedro! 👋
+
+Estudante de Ciência da Computação na **UNIFOR**, focado em desenvolvimento backend e integração entre sistemas. Sempre em busca de aprender novas tecnologias e criar soluções eficientes!
+
+[📄 Currículo](https://linkedin.com/in/seu-perfil)
+
+![jpselas05's Stats](https://github-readme-stats.vercel.app/api?username=jpselas05&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
-## 🚀 | My Journey So Far
-Currently a Computer Science undergraduate at UNIFOR, I'm deeply engaged with the world of technology, especially backend development with Node.js and JavaScript. My goal is to continuously learn and leverage new skills to create impactful and efficient software.
+## 📫 Formas de contato:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jp.sm0509@email.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5588XXXXXXXXX)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jpselas05)
 
 ---
 
-## 🎓 | Academic Background
-<p>
-   Pursuing a Bachelor's degree in Computer Science at the <a href="https://unifor.br" target="_blank">University of Fortaleza (UNIFOR)</a>.
-</p>
+## 💻 Tecnologias que trabalho:
+
+![jpselas05's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpselas05&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 📊 | GitHub Activity
-A glimpse into my coding activity and an overview of my most used languages on GitHub.
+## 🚀 Áreas de interesse:
 
-<div align="center">
-  <a href="https://github.com/jpselas05">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpselas05&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-
----
-
-## 💻 | My Tech Stack
-Here's a look at the main technologies and tools I'm currently working with:
-
-<table>
-  <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: top;">Server-side:</td>
-    <td>
-      <img height="40" src="https://skillicons.dev/icons?i=nodejs,javascript" alt="Node.js, JavaScript"/>
-    </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: top;">Client-side (JS Focus):</td>
-    <td>
-      <img height="40" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/>
-    </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: top;">Collaboration & Versioning:</td>
-    <td>
-      <img height="40" src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub"/>
-    </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: top;">Ongoing Exploration:</td>
-    <td>
-      <p><em>Continuously exploring new technologies and sharpening my skillset!</em></p>
-    </td>
-  </tr>
-</table>
+**Backend Development** • **APIs REST** • **Integração de Sistemas** • **SaaS** • **Web3**
