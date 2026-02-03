@@ -2,7 +2,7 @@
 
 Estudante de Ciência da Computação na **UNIFOR**, focado em desenvolvimento backend e integração entre sistemas. Sempre em busca de aprender novas tecnologias e criar soluções eficientes!
 
-[📄 Currículo](https://linkedin.com/in/seu-perfil)
+[📄 Currículo](https://www.linkedin.com/in/joao-pedro-sales-18e324f3/)
 
 ![jpselas05's Stats](https://github-readme-stats.vercel.app/api?username=jpselas05&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
@@ -10,7 +10,7 @@ Estudante de Ciência da Computação na **UNIFOR**, focado em desenvolvimento b
 
 ## 📫 Formas de contato:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-sales-18e324f3/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jp.sm0509@email.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5588XXXXXXXXX)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jpselas05)
