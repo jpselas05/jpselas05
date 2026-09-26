@@ -1,4 +1,4 @@
-# Olá! Eu sou o João Pedro!
+# Olá! Eu sou o João Pedro! 👋
 
 Desenvolvedor fullstack e estudante de Ciência da Computação na **UNIFOR**. Foco em backend e infraestrutura, com experiência em pentest de aplicações web.
 
@@ -24,12 +24,30 @@ Suporte a SPA e SSR. Clone via GitHub API, build e execução isolados em contai
 
 ## 🛠️ Stack
 
-**Linguagens:** TypeScript, JavaScript, Python, PHP, C#<br>
-**Backend:** Node.js, NestJS, .NET 8, Deno, Prisma, APIs REST<br>
+<table>
+  <tr>
+    <td><b>Linguagens</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=ts,js,py,php,cs"/></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,nestjs,deno,dotnet,prisma"/></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs"/></td>
+  </tr>
+  <tr>
+    <td><b>Dados</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=postgres,mysql"/></td>
+  </tr>
+  <tr>
+    <td><b>Infra & DevOps</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=docker,nginx,githubactions,grafana,git"/></td>
+  </tr>
+</table>
+
 **Tempo real:** WebSockets, SSE<br>
-**Frontend:** React, Next.js<br>
-**Dados:** PostgreSQL, MySQL, SQL<br>
-**Infra & DevOps:** Docker, Docker Compose, Nginx, CI/CD (GitHub Actions), Grafana, Git<br>
 **Integrações & Automação:** n8n, WhatsApp Business API, Evolution API<br>
 **Segurança:** Pentest de aplicações web (OWASP Top 10), Burp Suite, Nmap
 
