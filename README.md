@@ -47,7 +47,7 @@ Suporte a SPA e SSR. Clone via GitHub API, build e execução isolados em contai
   </tr>
   <tr>
     <td><b>Ferramentas</b></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=git,github,postman"/> + Bruno</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=git,github,postman"/></td>
   </tr>
 </table>
 
