@@ -31,7 +31,7 @@ Suporte a SPA e SSR. Clone via GitHub API, build e execução isolados em contai
   </tr>
   <tr>
     <td><b>Backend</b></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,nestjs,deno,dotnet,prisma"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,nestjs,deno,dotnet,prisma"/></td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
