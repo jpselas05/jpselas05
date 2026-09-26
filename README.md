@@ -1,6 +1,6 @@
 # Olá! Eu sou o João Pedro!
 
-Desenvolvedor fullstack e estudante de Ciência da Computação na **UNIFOR**. Foco em backend e infraestrutura, com experiência em pentest de aplicações web.
+Engenheiro de software e cibersegurança na **Qontrol** e estudante de Ciência da Computação na **UNIFOR**. Foco em backend, infraestrutura e integração entre sistemas, com experiência em pentest de aplicações web.
 
 ---
 
@@ -22,7 +22,7 @@ Suporte a SPA e SSR. Clone via GitHub API, build e execução isolados em contai
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 <table>
   <tr>
@@ -57,13 +57,13 @@ Suporte a SPA e SSR. Clone via GitHub API, build e execução isolados em contai
 
 ---
 
-## 📫 Contato
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-sales-18e324f3/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jp.sm0509@email.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jpselas05)
 
-## 📊 Estatísticas
+## Estatísticas
 
 <div align="center">
   <img src="https://github-readme-stats-beige-two-70.vercel.app/api/top-langs/?username=jpselas05&layout=compact&theme=tokyonight&hide_border=false" width="400" />
