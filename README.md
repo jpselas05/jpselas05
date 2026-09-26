@@ -1,4 +1,4 @@
-# Olá! Eu sou o João Pedro! 👋
+# Olá! Eu sou o João Pedro!
 
 Desenvolvedor fullstack e estudante de Ciência da Computação na **UNIFOR**. Foco em backend e infraestrutura, com experiência em pentest de aplicações web.
 
@@ -35,15 +35,19 @@ Suporte a SPA e SSR. Clone via GitHub API, build e execução isolados em contai
   </tr>
   <tr>
     <td><b>Frontend</b></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/></td>
   </tr>
   <tr>
     <td><b>Dados</b></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=postgres,mysql"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=postgres,mysql,supabase"/></td>
   </tr>
   <tr>
     <td><b>Infra & DevOps</b></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=docker,nginx,githubactions,grafana,git"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=docker,nginx,githubactions,grafana,vercel,netlify"/></td>
+  </tr>
+  <tr>
+    <td><b>Ferramentas</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=git,github,postman"/> + Bruno</td>
   </tr>
 </table>
 
