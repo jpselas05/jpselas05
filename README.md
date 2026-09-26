@@ -1,10 +1,10 @@
-# Hello! Eu sou o João Pedro! 👋
+# Olá! Eu sou o João Pedro!
 
 Desenvolvedor fullstack e estudante de Ciência da Computação na **UNIFOR**. Foco em backend e infraestrutura, com experiência em pentest de aplicações web.
 
 ---
 
-## ⚙️ Projetos Principais
+## Projetos Principais
 
 ### ⚖️ [Jurivo](https://jurivo-gamma.vercel.app)
 O escritório de advocacia inteiro num só lugar: tarefas da equipe, controle de pagamentos e o andamento dos processos atualizado automaticamente a partir do CNJ, sem precisar consultar tribunal por tribunal.
@@ -24,13 +24,13 @@ Suporte a SPA e SSR. Clone via GitHub API, build e execução isolados em contai
 
 ## 🛠️ Stack
 
-**Linguagens:** TypeScript, JavaScript, PHP, C#<br>
+**Linguagens:** TypeScript, JavaScript, Python, PHP, C#<br>
 **Backend:** Node.js, NestJS, .NET 8, Deno, Prisma, APIs REST<br>
 **Tempo real:** WebSockets, SSE<br>
 **Frontend:** React, Next.js<br>
 **Dados:** PostgreSQL, MySQL, SQL<br>
 **Infra & DevOps:** Docker, Docker Compose, Nginx, CI/CD (GitHub Actions), Grafana, Git<br>
-**Integrações:** WhatsApp Business API, Evolution API<br>
+**Integrações & Automação:** n8n, WhatsApp Business API, Evolution API<br>
 **Segurança:** Pentest de aplicações web (OWASP Top 10), Burp Suite, Nmap
 
 ---
@@ -46,5 +46,5 @@ Suporte a SPA e SSR. Clone via GitHub API, build e execução isolados em contai
 <div align="center">
   <img src="https://github-readme-stats-beige-two-70.vercel.app/api/top-langs/?username=jpselas05&layout=compact&theme=tokyonight&hide_border=false" width="400" />
   <br />
-  <img src="https://github-readme-stats-beige-two-70.vercel.app/api?username=jpselas05&show_icons=true&theme=tokyonight&hide_border=false&title_color=7C3AED&icon_color=7C3AED&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats-beige-two-70.vercel.app/api?username=jpselas05&show_icons=true&theme=tokyonight&hide_border=false&title_color=7C3AED&icon_color=7C3AED&count_private=true&hide_rank=true" alt="Stats" />
 </div>
